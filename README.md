@@ -1,4 +1,4 @@
-# Hospes
+# Project Hospes
 **Latin for Hospital.**
 
 Project 4 repository for University of Calgary - ENGO 551 - Winter 2020 by Chris Lin
